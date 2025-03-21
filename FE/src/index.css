@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+:root {
+  @apply flex bg-gray-100 p-6 max-w-7xl mx-auto justify-center;
+}
